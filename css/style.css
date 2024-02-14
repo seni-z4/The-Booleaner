@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* body{
+  background-image:
+} */
+
+header{
+  background-color:#94CAE6 ;
+  background-image: url('/img/pattern.png');
+  background-size: auto;
+}
+
+.logo{
+  width: 250px;
+  padding: 40px 20px;
+}
