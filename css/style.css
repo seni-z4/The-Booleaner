@@ -30,3 +30,10 @@ header{
   color: #6eb6da;
   font-weight: bold;
 }
+
+.main-image{
+  padding: 40px 20px;
+}
+.text-alt{
+  font-size: 8px;
+}
