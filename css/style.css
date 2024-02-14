@@ -17,3 +17,16 @@ header{
   width: 250px;
   padding: 40px 20px;
 }
+
+.main-header{
+  padding: 40px 20px;
+}
+
+.main-header-text{
+  color: gray;
+}
+
+.main-text{
+  color: #6eb6da;
+  font-weight: bold;
+}
