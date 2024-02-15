@@ -52,9 +52,14 @@ header{
 
 .table-header{
   background-color: #7FA6FB;
-  padding: 10px auto;
+  padding: 10px 50px;
 }
 
 .table-info-1{
   background-color: #d0eefc;
+}
+
+
+table{
+  width: 100%;
 }
